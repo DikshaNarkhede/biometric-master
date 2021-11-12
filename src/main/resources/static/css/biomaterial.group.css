@@ -1,0 +1,119 @@
+.listing {
+	padding: 12px;
+	margin: 8px;
+}
+
+#load_more {
+	color: green;
+	background-color: white;
+	cursor: pointer;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#load_more:hover {
+	color: red;
+}
+
+.collapsible {
+	cursor: pointer;
+}
+
+.content {
+	margin: auto;
+	width: 60%;
+	padding: 10px;
+}
+
+tr.removebullet {
+	list-style-type: none;
+}
+
+div.scroll {
+	margin: 4px, 4px;
+	padding: 4px;
+	width: 600px;
+	height: 270px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	text-align: justify;
+}
+
+.crossButton {
+	float: right;
+}
+
+.crossButtonGroup {
+	float: right;
+}
+
+.error {
+	color: red;
+	margin-left: 5px;
+}
+
+label.error {
+	display: inline;
+}
+
+th.colorFullTh {
+	background-color: cornflowerblue;
+}
+
+.column {
+	float: left;
+}
+
+.unstyled-button {
+	border: none;
+	padding: 0;
+	background: none;
+}
+
+ul.removebullet {
+	list-style-type: none;
+}
+
+.error {
+	color: red;
+	margin-left: 5px;
+}
+
+label.error {
+	display: inline;
+}
+
+tr.colorFullTh {
+	background-color: cornflowerblue;
+}
+
+.showGroupInColor {
+	background-color: #90EE90;
+}
+
+.buttonActive {
+	background: none;
+	border: none;
+	width: 20px;
+	height: 10px;
+}
+
+.buttonActive {
+	background: none;
+	border: none;
+	width: 20px;
+	height: 10px;
+}
+
+.buttonInactive {
+	padding: 0;
+	background: none;
+	border: none;
+	width: 20px;
+	height: 10px;
+}
+
+.materialList{
+	
+	display:block !important;
+}
